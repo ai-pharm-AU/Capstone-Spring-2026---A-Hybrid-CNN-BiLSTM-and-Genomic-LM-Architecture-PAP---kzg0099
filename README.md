@@ -21,7 +21,7 @@ Two parallel notebooks are provided: one using **AgroNT-1b** as the frozen langu
 .
 ├── koushik_agront_v2.ipynb     # AgroNT backbone notebook (v2)
 ├── koushik_generator_v2.ipynb   # GENERator backbone notebook (v2)
-├── capstone_manuscript_final.docx                  # Written manuscript
+├── capstone_manuscript_koushik.docx                  # Written manuscript
 ├── capstone_presentation.pptx                      # Slides for advisor meeting
 └── README.md                                       # This file
 ```
