@@ -58,7 +58,7 @@ Standard packages already available on Colab: `torch`, `numpy`, `pandas`, `matpl
 
 1. Go to [colab.research.google.com](https://colab.research.google.com)
 2. Click **File → Upload notebook**
-3. Upload either `koushik_agront_v2_2304_results_finall.ipynb` or `koushik_generator_v2_2304_results_final.ipynb`
+3. Upload either `koushik_agront_v2.ipynb` or `koushik_generator_v2.ipynb`
 
 ### Step 2: Enable GPU Runtime
 
