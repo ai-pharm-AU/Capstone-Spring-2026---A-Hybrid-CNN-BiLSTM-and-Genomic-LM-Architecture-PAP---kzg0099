@@ -1,4 +1,5 @@
-# Plant Promoter Activity Prediction: Hybrid Deep Learning Model
+# A Hybrid CNN+BiLSTM and Genomic LM Architecture
+
 
 **Author:** Koushik Govardhanam
 **Course:** Capstone Project  
