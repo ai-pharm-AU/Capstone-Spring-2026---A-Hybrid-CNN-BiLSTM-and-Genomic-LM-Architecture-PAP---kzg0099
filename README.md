@@ -170,17 +170,6 @@ After running Cell 15, the following files are downloaded from Colab:
 
 ---
 
-## Key Results (v2)
-
-| Model Variant | Mean R² (across 6 conditions) |
-|---|---|
-| CNN+BiLSTM + AgroNT-1b (v2) | ~0.687 |
-| CNN+BiLSTM + GENERator (v2) | ~0.687 |
-
-Species one-hot encoding was identified as the dominant driver of improvements in the Maize condition (permutation feature importance analysis).
-
----
-
 ## Notes
 
 - The dataset file (`Capstone project data resource-1.xlsx`) is **not included** in this repository. Obtain it from your course materials and upload it when Cell 2 prompts you.
